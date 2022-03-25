@@ -1,0 +1,2 @@
+org.springframework.context.ApplicationContextInitializer = com.unsafe_sparkdata.SparkApplicationContextInitializer
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.unsafe_sparkdata.SparkDataStarterConf
